@@ -441,7 +441,7 @@ header {
     color: var(--clr-accent);
     text-align: center;
     padding: 2.5em 0;
-    font-size: var(--fs-h3);
+    font-size: 35px;
 
 }
 
@@ -477,6 +477,7 @@ header {
 
 .social-list__link {
     padding: .5em;
+    
 }
 
 
