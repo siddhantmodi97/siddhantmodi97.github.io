@@ -290,7 +290,7 @@ header {
     background-color: var(--clr-light);
     background-image: url(../Images/services-bg.jpg);
     background-size: cover;
-    color: 		#00ffc8;   
+    color: 		 #98e7c5 ;   
     text-align: center;
 }
 
@@ -302,11 +302,11 @@ header {
 .section__title--services::after {
     content: '';
     display: block;
-    width: 3em;
-    height: 1px;
+    width: 2em;
+    height: 3px;
     margin: 0.5em auto 1em;
     background: var(--clr-light);
-    opacity: 0.9;
+    opacity: 0.6;
 }
 
 .services {
@@ -329,7 +329,7 @@ header {
     }
     
     .service + .service {
-        margin-left: 2em;
+        margin-left: 1.5em;
     }
 }
 
