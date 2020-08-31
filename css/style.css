@@ -299,6 +299,7 @@ header {
     position: relative;
 }
 
+
 .section__title--services::after {
     content: '';
     display: block;
@@ -441,7 +442,7 @@ header {
     color: var(--clr-accent);
     text-align: center;
     padding: 2.5em 0;
-    font-size: 35px;
+    font-size: 2.25rem;
 
 }
 
