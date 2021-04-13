@@ -1,5 +1,4 @@
-# siddhantmodi97.github.io
-Portfolio website
+# Portfolio website
 - Sources and references: 
   - https://www.w3schools.com/html/default.asp
   - https://www.w3schools.com/css/default.asp
